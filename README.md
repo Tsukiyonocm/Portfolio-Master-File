@@ -6,6 +6,8 @@
 
 [FrontLoops 1-2](https://tsukiyonocm.github.io/FrontLoops-1-2/) - Creating a simple payout form. On this portion of the form, you can select between different payments and there is a checkmark that tells you which was selected. I opted to make the three options clickable so that the checkmark bounces between them based on the click. This was beyond the scope and really did it to mess around with some JavaScript a bit.
 
+[FrontLoops 1-3](https://tsukiyonocm.github.io/FrontLoops-1-3/) - This was a simple checkout card. It showcased company name and profile icon, order and totals. There is also a very simple hover effect on the profile icon. 
+
 
 
 ## Incomplete Projects
